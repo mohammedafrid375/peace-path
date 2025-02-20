@@ -12,9 +12,6 @@ function App() {
         getData()
     },[])
 
-
-
-
     return (
         <div>
             {data}
